@@ -1,0 +1,15 @@
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\bin\Debug\netstandard2.0\Burger_shop.deps.json
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\bin\Debug\netstandard2.0\Burger_shop.dll
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\bin\Debug\netstandard2.0\ref\Burger_shop.dll
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\bin\Debug\netstandard2.0\Burger_shop.pdb
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\obj\Debug\netstandard2.0\Burger_shop.csprojAssemblyReference.cache
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\obj\Debug\netstandard2.0\Views\LandingPage.xaml.g.cs
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\obj\Debug\netstandard2.0\Burger_shop.AssemblyInfoInputs.cache
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\obj\Debug\netstandard2.0\Burger_shop.AssemblyInfo.cs
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\obj\Debug\netstandard2.0\Burger_shop.csproj.CoreCompileInputs.cache
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\obj\Debug\netstandard2.0\XamlC.stamp
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\obj\Debug\netstandard2.0\Burger_shop.dll
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\obj\Debug\netstandard2.0\ref\Burger_shop.dll
+D:\HK1nam3\Didong\Burger_shop\Burger_shop\Burger_shop\obj\Debug\netstandard2.0\Burger_shop.pdb
