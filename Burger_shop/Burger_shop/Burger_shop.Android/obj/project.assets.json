@@ -1939,11 +1939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop.Android\\Burger_shop.Android.csproj",
+      "projectUniqueName": "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop.Android\\Burger_shop.Android.csproj",
       "projectName": "Burger_shop.Android",
-      "projectPath": "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop.Android\\Burger_shop.Android.csproj",
+      "projectPath": "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop.Android\\Burger_shop.Android.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop.Android\\obj\\",
+      "outputPath": "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1964,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop\\Burger_shop.csproj": {
-              "projectPath": "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop\\Burger_shop.csproj"
+            "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop\\Burger_shop.csproj": {
+              "projectPath": "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop\\Burger_shop.csproj"
             }
           }
         }

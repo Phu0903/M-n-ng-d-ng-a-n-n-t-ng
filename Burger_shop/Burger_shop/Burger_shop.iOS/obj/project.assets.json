@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop.iOS\\Burger_shop.iOS.csproj",
+      "projectUniqueName": "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop.iOS\\Burger_shop.iOS.csproj",
       "projectName": "Burger_shop.iOS",
-      "projectPath": "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop.iOS\\Burger_shop.iOS.csproj",
+      "projectPath": "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop.iOS\\Burger_shop.iOS.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop.iOS\\obj\\",
+      "outputPath": "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1012,8 +1012,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop\\Burger_shop.csproj": {
-              "projectPath": "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop\\Burger_shop.csproj"
+            "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop\\Burger_shop.csproj": {
+              "projectPath": "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop\\Burger_shop.csproj"
             }
           }
         }

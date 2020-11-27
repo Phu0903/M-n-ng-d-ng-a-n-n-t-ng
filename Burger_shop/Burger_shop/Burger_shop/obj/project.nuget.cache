@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ReJZ5nUiQOtmG8tQv6e3jIoCndDctvn6g6nw0QMZTCUYokKsaNMh3QE60UDK+DWXIcmVZ/mqs4OGTB4fROdD7w==",
+  "dgSpecHash": "aeaFa9SdtHwZp5aVWlPWwOF6iVq6BIAI6ZC2XXilYxaJoBBrBxLyKJAOABf/0Wl/94QxEpbFoFWuBYD/3j4xvA==",
   "success": true,
-  "projectFilePath": "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop\\Burger_shop.csproj",
+  "projectFilePath": "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop\\Burger_shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

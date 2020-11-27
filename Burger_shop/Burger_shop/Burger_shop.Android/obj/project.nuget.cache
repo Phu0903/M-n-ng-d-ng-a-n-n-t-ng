@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KlDYHSLjLKfjIypyRcbe90SwkTatMXJAmRZCUD0GWFZGVwHLPCSLgnrwogJckT7xXz4WwnAHHanlpKOldk4dkg==",
+  "dgSpecHash": "W5RUR3Dx3uVoU5h8IhATBDJmbOGGyr5FhpO8NoSABGSqwDVv6Alxa8mLEqwK9HbKLavpcd5xqBZhmJ6zopkllg==",
   "success": true,
-  "projectFilePath": "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop.Android\\Burger_shop.Android.csproj",
+  "projectFilePath": "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop.Android\\Burger_shop.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

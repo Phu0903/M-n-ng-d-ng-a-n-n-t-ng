@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8xoujTbkh4twl6fNhO1bTNYkruAyujN09BWWdB7yYvhnA+p2Kov4cgdd1GQd9vCPZa1DrrmPmXY8yVcbLOK3jw==",
+  "dgSpecHash": "stNwZ/TPkSBOw0UfD8TpY/crwgl4/6gX+UIyB4AqAE60b96q0laGvVokW07xtXFH+5OR+dn53GX12i8aSLYUKQ==",
   "success": true,
-  "projectFilePath": "D:\\HK1nam3\\Didong\\Burger_shop\\Burger_shop\\Burger_shop.iOS\\Burger_shop.iOS.csproj",
+  "projectFilePath": "D:\\HK1nam3\\Didong\\Đồ án\\M-n-ng-d-ng-a-n-n-t-ng\\Burger_shop\\Burger_shop\\Burger_shop.iOS\\Burger_shop.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
